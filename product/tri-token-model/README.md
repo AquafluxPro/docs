@@ -12,9 +12,9 @@ AquaFlux’s Tri-Token Model re-imagines a single RWA bond as three distinct tok
 
 The model split a verified bond-like RWA into three tokens:&#x20;
 
-<mark style="color:blue;">P (Principal)</mark> · <mark style="color:purple;">C(Coupon)</mark> · <mark style="color:orange;">S (Safety)</mark>
+<mark style="color:blue;">P (Principal)</mark> · <mark style="color:purple;">C(Coupon)</mark> · <mark style="color:orange;">S (Shield)</mark>
 
-<table><thead><tr><th width="136.35546875">Token</th><th width="191.7578125">Essence</th><th>What you get</th></tr></thead><tbody><tr><td><strong>P-Token</strong></td><td>Zero-coupon note</td><td>1 USD at maturity — capital-protected</td></tr><tr><td><strong>C-Token</strong></td><td>Fixed-rate strip</td><td>Stream of coupons until maturity</td></tr><tr><td><strong>S-Token</strong></td><td>First-loss tranche</td><td>Part of couponss + protocol fees, but absorbs default first</td></tr></tbody></table>
+<table><thead><tr><th width="136.35546875">Token</th><th width="191.7578125">Essence</th><th>What you get</th></tr></thead><tbody><tr><td><a href="p-token-principal.md"><strong>P-Token</strong></a></td><td>Zero-coupon note</td><td>1 USD at maturity — capital-protected</td></tr><tr><td><a href="c-token-coupon.md"><strong>C-Token</strong></a></td><td>Fixed-rate strip</td><td>Stream of coupons until maturity</td></tr><tr><td><a href="s-token-shield-and-surplus.md"><strong>S-Token</strong></a></td><td>First-loss tranche</td><td>Part of coupons + protocol fees, but absorbs default first</td></tr></tbody></table>
 
 By unbundling principal, coupons, and default risk, it maps **the right yield-risk slice to the right user persona**—from risk-averse treasuries to yield hunters and degen farmers.
 

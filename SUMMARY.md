@@ -7,13 +7,10 @@
 * [Introduction](product/introduction.md)
 * [Tri-Token Model](product/tri-token-model/README.md)
   * [P-Token (Principal)](product/tri-token-model/p-token-principal.md)
-  * [C-Token](product/tri-token-model/c-token.md)
-  * [S-Token](product/tri-token-model/s-token.md)
+  * [C-Token (Coupon)](product/tri-token-model/c-token-coupon.md)
+  * [S-Token (Shield & Surplus)](product/tri-token-model/s-token-shield-and-surplus.md)
+* [Risk Waterfall](product/risk-waterfall.md)
 * [Lifecycle](product/lifecycle.md)
-
-***
-
-* [Yield & Risk Mechanics](yield-and-risk-mechanics.md)
 
 ## Tokenomics
 
