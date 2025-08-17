@@ -13,15 +13,34 @@ In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><ma
 ### Why it matters
 
 * **Shield the system** – S absorbs first loss, stabilizing P and then C.
-* **Multiple income sources** – Coupons + protocol fees + potential residuals (and, where applicable, issuer incentives/airdrops).
+* **Multiple income sources** – Coupons + protocol fees + and, where applicable, issuer incentives/airdrops.
 * **Risk-priced carry** – Higher expected yield for taking first-loss risk.
 
 > Tip: **You sell protection and get paid for it.** If nothing bad happens, you keep the carry (coupon+fees+incentives) and the unused buffer. If losses occur, **you’re hit first**.
 
+### How it works
+
+* **Loss waterfall**
+  * **S-Token** absorbs losses first (up to its coverage).
+  * If losses exceed S, **C-Token** is reduced next.
+  * Only extreme residual loss may reach **P-Token**.
+* **Cash flows to S**
+  * **Coupon share:** A fixed % of each coupon payment.
+  * **Protocol fees:** A defined % of AquaFlux fees (swap/wrap/split/merge/LP fees, etc.—see dApp).
+  * **Issuer incentives:** A possible points or airdrop reward from issuer.
+* **Pricing intuition (no hard par):**\
+  S’s fair value ≈ _(expected coupon share + expected fees + expected residual)_ − _(expected losses)_.\
+  Expectations change with asset quality, coverage ratio, time to maturity, and market sentiment—so price **may not stable** as P.
+
+### Who it’s for
+
+* **Yield hunters / risk takers** who understand first-loss dynamics.
+* **Structured-yield strategies** selling downside in exchange for higher carry.
+
 ### Playing S with P / C (LEGO® combos)
 
 * **P + S → “cash-plus”**: principal-heavy with a small yield kicker from S income; S amount kept modest to cap drawdown.
-* **C + S → “enhanced carry”**: harvest coupons with fee share, while selling first-loss protection—higher carry, higher downside.
+* **C + S → “enhanced carry”**: harvest coupons and fee share at the same time.
 * **S only → “pure protection seller”**: maximum exposure to first-loss in exchange for the highest potential carry.
 
 ### Acquire & Exit

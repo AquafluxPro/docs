@@ -1,5 +1,5 @@
 ---
-description: This page explains we built AquaFlux & how it solves RWA pain points.
+description: Why we built AquaFlux & how it solves RWA pain points.
 ---
 
 # Introduction

@@ -12,6 +12,10 @@
 * [Risk Waterfall](product/risk-waterfall.md)
 * [Lifecycle](product/lifecycle.md)
 
+***
+
+* [AquaMind](aquamind.md)
+
 ## Tokenomics
 
 * [Design Principle](tokenomics/design-principle/README.md)
