@@ -11,10 +11,7 @@
   * [S-Token (Shield & Surplus)](product/tri-token-model/s-token-shield-and-surplus.md)
 * [Risk Waterfall](product/risk-waterfall.md)
 * [Lifecycle](product/lifecycle.md)
-
-***
-
-* [AquaMind](aquamind.md)
+* [AquaMind](product/aquamind.md)
 
 ## Tokenomics
 
@@ -22,13 +19,21 @@
   * [$AQUA](tokenomics/design-principle/usdaqua.md)
 * [AquaX](tokenomics/aquax.md)
 
-## Developers
-
-* [Contracts](developers/contracts.md)
-
 ## Podcast
 
 * [Podcast Menu](podcast/podcast-menu.md)
 * [Aquaflux\_En](podcast/aquaflux_en.md)
 * [Aquaflux\_中文播客](podcast/aquaflux-zhong-wen-bo-ke.md)
 * [Aquaflux Deep Dive](podcast/aquaflux-deep-dive.md)
+
+## Developers
+
+* [Contracts](developers/contracts.md)
+
+***
+
+* [Links](links/README.md)
+  * [Website](https://www.aquaflux.pro/)
+  * [Twitter](https://x.com/AquaFluxPro)
+  * [Telegram](https://t.me/AquaFluxPro)
+  * [Github](https://github.com/AquafluxPro)
