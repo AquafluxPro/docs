@@ -5,7 +5,10 @@
 ## Product
 
 * [Introduction](product/introduction.md)
-* [Tri-Token Model](product/tri-token-model.md)
+* [Tri-Token Model](product/tri-token-model/README.md)
+  * [P-Token (Principal)](product/tri-token-model/p-token-principal.md)
+  * [C-Token](product/tri-token-model/c-token.md)
+  * [S-Token](product/tri-token-model/s-token.md)
 * [Lifecycle](product/lifecycle.md)
 
 ***
@@ -14,7 +17,9 @@
 
 ## Tokenomics
 
-* [Principle](tokenomics/principle.md)
+* [Design Principle](tokenomics/design-principle/README.md)
+  * [$AQUA](tokenomics/design-principle/usdaqua.md)
+* [AquaX](tokenomics/aquax.md)
 
 ## Developers
 
