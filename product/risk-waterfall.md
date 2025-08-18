@@ -29,6 +29,14 @@ description: How returns are paid and how losses are absorbed
 
 > Plain: **S is the airbag.** If the crash is bigger than the airbag, **C** gets dented. **P** is protected unless the crash is severe.
 
+### Tranche
+
+Is the Tri-Token a tranche? Short answer: yes—but it’s more than that.
+
+In a traditional deal, tranches only change **who takes losses first**; they don’t combine to make new, meaningful payoffs. In AquaFlux, **P / C / S** are cash-flow layers **with loss priority and clear roles** that you can **compose (**[**check more**](tri-token-model/#id-3.-composable-lego)**).**&#x20;
+
+Because these pieces are composable, certain mixes create **option-like** payoffs (e.g., **S** ≈ selling first-loss protection). In other words, Tri-Token is not just risk slicing—it lets users **shape their payoff curve**, not merely their place in the waterfall.
+
 ### Simple examples
 
 **Pool:** $100 total. **S coverage:** 10% (a $10 buffer).
