@@ -56,6 +56,8 @@ In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><ma
 
 * **Is S-Token principal-protected?**\
   No. It’s **first-loss** by design. You are compensated via coupon share, fee share, and potential residual—**not** by a 1:1 redemption promise.
+* **Does buying S-Token give me insurance on the asset?**\
+  No. Buying S-Token is like **selling** insurance—you act as the first-loss provider (the underwriter). You earn coupon/fee shares and potential residuals for taking that risk, and you’re hit first if losses occur. If you want to **buy** protection instead, do the opposite: **short the S-Token** (where supported) or avoid S and hold **P (or P + C)** so the first-loss buffer works in your favor.
 * **When do I earn?**\
   Throughout the term (coupon/fee distributions) and potentially at maturity (unused buffer), provided performance is on track.
 * **What happens if there’s a default?**\
