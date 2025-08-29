@@ -18,6 +18,11 @@ In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><ma
 
 > Tip: **You sell protection and get paid for it.** If nothing bad happens, you keep the carry (coupon+fees+incentives) and the unused buffer. If losses occur, **you’re hit first**.
 
+### How to get S-Token
+
+* **Stablecoin users:** Open AquaFlux **Swap**, choose a pool, **buy S-Token** directly.
+* **RWA holders:** **Wrap** the asset, then **Split** to mint **P/C/S**—keep S (swap out P/C if needed).
+
 ### How it works
 
 * **Loss waterfall**

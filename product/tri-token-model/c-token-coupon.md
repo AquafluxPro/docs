@@ -14,6 +14,11 @@ icon: money-check-dollar
 * **Flexible exit** – You can **sell anytime** in the pool (T+0), instead of waiting for every coupon date.
 * **Composable yield** – LP, stake, or combine with P/S to build custom payoffs.
 
+### How to get C-Token
+
+* **Stablecoin users:** Open AquaFlux **Swap**, choose a pool, **buy C-Token** directly.
+* **RWA holders:** **Wrap** the asset, then **Split** to mint **P/C/S**—keep C (swap out P/S if needed).
+
 ### Acquire & exit
 
 * **Acquire**

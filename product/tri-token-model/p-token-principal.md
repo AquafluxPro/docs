@@ -20,6 +20,11 @@ You buy it **below 1.00**, receive **1.00 at maturity**, and you can **sell anyt
 
 > P is for people who want principal first, clear timelines, and optional leverage without juggling coupons.
 
+### How to get P-Token
+
+* **Stablecoin users:** Open AquaFlux **Swap**, choose a pool, **buy P-Token** directly.
+* **RWA holders:** **Wrap** the asset, then **Split** to mint **P/C/S**—keep **P** (swap out C/S if needed).
+
 ### How it works
 
 * **Cash flow**: No interim coupons; **redeem 1.00 at maturity** (e.g., 1 USDC).

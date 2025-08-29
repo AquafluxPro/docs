@@ -15,7 +15,7 @@ Say hello to AquaFlux — the LEGO factory for Real-World Assets.
 
 ## What is AquaFlux
 
-AquaFlux is a DeFi protocol that unlocks real-world asset liquidity and yield through its **Tri-Token model**, **P**(principal), **C**(coupon), and **S**(safety) — enabling users to customize **risk** and **return** on-chain.
+AquaFlux is a DeFi protocol that unlocks real-world asset liquidity and yield through its **Tri-Token model**, **P** (Principal), **C** (Coupon), and **S** (Shield) — enabling users to customize **risk** and **return** on-chain.
 
 
 
