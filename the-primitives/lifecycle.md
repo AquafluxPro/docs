@@ -51,13 +51,6 @@ The 5 actions are independent, you may only need to perform one.
 * **Borrow/lend (market-dependent):** P often gets **higher LTV**, C medium, S low/ineligible.
 * **Manage duration:** roll P to nearer maturities; time coupon calendars with C.
 
-### Quick example timeline
-
-1. Wrap a 12-month bond → get aqToken.
-2. Split → receive **P / C / S**.
-3. Hold **P** (principal), sell **C** (you don’t want income), keep a **small S** for extra yield.
-4. Three months later, merge everything you still hold → unwrap or keep until maturity.
-
 ### FAQ
 
 **Do I have to merge to redeem P?**\

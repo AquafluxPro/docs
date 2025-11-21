@@ -1,17 +1,17 @@
 # Table of contents
 
 * [Welcome to AquaFlux](README.md)
+  * [Introduction](welcome-to-aquaflux/introduction.md)
 
-## Product
+## The Primitives
 
-* [Introduction](product/introduction.md)
-* [Tri-Token Model](product/tri-token-model/README.md)
-  * [P-Token (Principal)](product/tri-token-model/p-token-principal.md)
-  * [C-Token (Coupon)](product/tri-token-model/c-token-coupon.md)
-  * [S-Token (Shield & Surplus)](product/tri-token-model/s-token-shield-and-surplus.md)
-* [Risk Waterfall](product/risk-waterfall.md)
-* [Lifecycle](product/lifecycle.md)
-* [AquaMind](product/aquamind.md)
+* [Tri-Token Model](the-primitives/tri-token-model/README.md)
+  * [P-Token (Principal)](the-primitives/tri-token-model/p-token-principal.md)
+  * [C-Token (Coupon)](the-primitives/tri-token-model/c-token-coupon.md)
+  * [S-Token (Shield & Surplus)](the-primitives/tri-token-model/s-token-shield-and-surplus.md)
+* [Risk Waterfall](the-primitives/risk-waterfall.md)
+* [Lifecycle](the-primitives/lifecycle.md)
+* [AquaMind](the-primitives/aquamind.md)
 
 ## Tokenomics
 

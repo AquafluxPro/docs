@@ -19,4 +19,4 @@ AquaFlux is a DeFi protocol that unlocks real-world asset liquidity and yield th
 
 
 
-Ready to dive in ?  [Get Started](product/introduction.md)
+Ready to dive in ?  [Get Started](welcome-to-aquaflux/introduction.md)

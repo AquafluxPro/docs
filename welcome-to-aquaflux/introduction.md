@@ -6,7 +6,7 @@ description: Why we built AquaFlux & how it solves RWA pain points.
 
 ## The Problem Today - Can You Related?
 
-Picture two typical crypto investors — you might see yourself in one (or both) of them:
+Picture two typical investors — you might see yourself in one (or both) of them:
 
 **a) The “Bond-Hodler”**
 
@@ -32,5 +32,7 @@ In other words, RWA brings **cash-flows indexed to time**, not volatility. Harne
 
 ## Our Solution: AquaFlux
 
-<table><thead><tr><th width="269.7890625">Pain Point</th><th>AquaFlux Fix</th></tr></thead><tbody><tr><td><strong>Illiquid bonds</strong></td><td>Split into tokens you can swap 24/7 (T+0 exit).</td></tr><tr><td><strong>All-or-nothing risk</strong></td><td>Tri-Token model lets you hold only Principal (P), only Coupon (C), or farm yield with Safety (S).</td></tr><tr><td><strong>Opaque default risk</strong></td><td>First-loss vault transparently covers defaults before P is touched.</td></tr><tr><td><strong>Lack of time-based strategies</strong></td><td>Merge, split, ladder, or lever tokens to build yield curves, cash-plus vaults, or carry trades—all on-chain.</td></tr></tbody></table>
+From **Tokenization** to **Structuring**
+
+<table><thead><tr><th width="260.69921875">Pain Point</th><th>AquaFlux Fix</th></tr></thead><tbody><tr><td><strong>Locked &#x26; Illiquid</strong></td><td>Split your RWAs. Sell any part instantly on the AMM. <strong>No more waiting for maturity.</strong></td></tr><tr><td><strong>All-or-nothing risk</strong></td><td><strong>Tri-Token model</strong> lets you customize exposure: choose Principal (P) for safety, Coupon (C) for cash flow, or S-Token for yield.</td></tr><tr><td><strong>Risk Black Box</strong></td><td>A fully on-chain <strong>Risk Waterfall</strong> makes default protection transparent and verifiable.</td></tr><tr><td><strong>Low Composability</strong></td><td>Split, combine, wrap, or looping to build yield curves, cash-plus vaults, or carry trades—all on-chain.</td></tr></tbody></table>
 
