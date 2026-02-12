@@ -7,9 +7,9 @@ icon: circle-dollar
 
 ### **What is&#x20;**<mark style="color:blue;">**P-Token**</mark>
 
-P-Token represent the <mark style="color:blue;">**principal part**</mark> of a RWA, it likes the on-chain version of a **zero-coupon bond.**
+P-Token represents the **principal portion** of a RWA. It works like a zero-coupon bond: you buy it at a discount today, and it redeems at $1.00 when the bond matures. No coupons, no complexity -- just a clean, predictable return.
 
-You buy it **below 1.00**, receive **1.00 at maturity**, and you can **sell anytime** before maturity in the pool. If losses occur, S-Token (first-loss buffer) is designed to take the hit before P-Token.
+If something goes wrong with the underlying asset, the S-Token (the "airbag") absorbs losses before P-Token is affected.
 
 ### Why it matters
 

@@ -1,7 +1,5 @@
 ---
-description: >-
-  One bond, three on-chain LEGO® bricks — mix & match your own risk-return
-  profile.
+description: One asset, three building bricks — mix & match your own risk-return profile.
 ---
 
 # Tri-Token Model
@@ -10,13 +8,15 @@ AquaFlux’s Tri-Token Model re-imagines a single RWA bond as three dynamic, tra
 
 ### 1. First Glance
 
-The model split a bond-like yield RWA into three tokens:&#x20;
+Imagine taking a single bond and snapping it apart into three LEGO bricks. Each brick does one job really well, and you can reassemble them in any combination to build exactly the investment you want.
+
+That is the Tri-Token Model. AquaFlux takes a real-world asset (like a bond) and splits it into three tradeable tokens:
 
 <mark style="color:blue;">P (Principal)</mark> · <mark style="color:purple;">C(Coupon)</mark> · <mark style="color:orange;">S (Shield)</mark>
 
-<table><thead><tr><th width="110.66015625">Token</th><th width="459.7578125">Mechanism</th><th>Target Persona</th></tr></thead><tbody><tr><td><a href="p-token-principal.md"><strong>P-Token</strong></a></td><td><strong>Zero-coupon logic</strong>. Redeems 1:1 for USD at maturity. Capital protected.</td><td>Treasuries, Low-risk Savers</td></tr><tr><td><a href="c-token-coupon.md"><strong>C-Token</strong></a></td><td><strong>Fixed-rate strip</strong>.Stream of coupons until maturity</td><td>Yield Hunters</td></tr><tr><td><a href="s-token-shield-and-surplus.md"><strong>S-Token</strong></a></td><td><strong>Junior Tranche</strong>. Absorbs default risk first. In return, it captures protocol fees + incentives + residual upside.</td><td>Degens, Speculators</td></tr></tbody></table>
+<table><thead><tr><th width="110.66015625">Token</th><th width="459.7578125">Mechanism</th><th>Best For</th></tr></thead><tbody><tr><td><a href="p-token-principal.md"><strong>P-Token</strong></a></td><td><strong>Senior Tranche.</strong> Zero-coupon logic, buy it at a discount (say $0.94), get $1.00 back at maturity.</td><td>Treasuries, low-risk savers</td></tr><tr><td><a href="c-token-coupon.md"><strong>C-Token</strong></a></td><td><strong>Your income stream.</strong> Captures the underlying's interest payments. Sell anytime, no waiting for coupon dates.</td><td>Rate Traders, yield hunters</td></tr><tr><td><a href="s-token-shield-and-surplus.md"><strong>S-Token</strong></a></td><td><strong>Junior Tranche</strong>. Absorbs losses first, protecting P and C. In return, earns protocol fees, a share of coupons, and potential bonus rewards.</td><td>Risk-takers, yield maximizers</td></tr></tbody></table>
 
-> By unbundling principal, coupons, and risk, we map the yield/risk slice to the exact right user—no more "one size fits all."
+> By unbundling principal, income, and risk into separate tokens, every investor gets exactly the piece they want -- no more "one size fits all."
 
 ### 2. Why Split at All?
 
@@ -24,7 +24,7 @@ Traditional bonds bundle everything into one illiquid paper. By unbundling them,
 
 * 🔍 **Price Discovery:**&#x20;
 
-&#x20;        The market can finally price "Time" (P) and "Risk" (S) separately.
+&#x20;        The market can finally price "time value" (via P) and "risk" (via S) separately, instead of lumping everything into one number.
 
 * 🧱 **Composability**:&#x20;
 
