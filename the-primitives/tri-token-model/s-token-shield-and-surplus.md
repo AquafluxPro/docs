@@ -5,23 +5,52 @@ icon: shield-halved
 
 # S-Token (Shield & Surplus)
 
-### What it is <mark style="color:orange;">S-Token</mark>
+**S-Token** is the "High Yield" engine of AquaFlux. It is designed for users who want to earn significantly more than the standard rate and are comfortable taking on the role of a **Risk Underwriter**.
 
-S-Token is the “<mark style="color:orange;">**first-loss**</mark>” buffer that protects P and C.\
-In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><mark style="color:orange;">:</mark> a slice of **coupons**, a share of **protocol fees**, and a possible **points or airdrop** reward from issuer.
+### What it is <mark style="color:$warning;">S-Token</mark>
 
-### Why it matters
+S-Token is the <mark style="color:$warning;">Shield</mark>, first-loss buffer that protects P and C. In return, it can earn a <mark style="color:$warning;">Surplus yield</mark><mark style="color:orange;">:</mark> a slice of _coupons_, a share of _protocol fees,_ and a possible _points or airdrop_ reward from issuer.
 
-* **Shield the system** – S absorbs first loss, stabilizing P and then C.
-* **Multiple income sources** – Coupons + protocol fees + and, where applicable, issuer incentives/airdrops.
-* **Risk-priced carry** – Higher expected yield for taking first-loss risk.
+### The Core Concept: You are the Insurer
 
-> Tip: **You sell protection and get paid for it.** If nothing bad happens, you keep the carry (coupon+fees+incentives) and the unused buffer. If losses occur, **you’re hit first**.
+The best way to understand S-Token is through an insurance analogy:
 
-### How to get S-Token
+* P-Token Holders are the **Insured**. They accept a lower return in exchange for safety.
+* S-Token Holders are the **Insurers**. You provide that safety (First-Loss protection).
 
-* **Stablecoin users:** Open AquaFlux **Swap**, choose a pool, **buy S-Token** directly.
-* **RWA holders:** **Wrap** the asset, then **Split** to mint **P/C/S**—keep S (swap out P/C if needed).
+Why do it? Because insurers get paid **Premiums**. In AquaFlux, these "premiums" come in two powerful forms:
+
+1. **Intrinsic Yield** (S-Token): The base asset's yield + fees.
+2. **Extrinsic Rewards** (SS, Staked S-Token): The protocol's incentive rewards + upside.
+
+### <mark style="color:$warning;">S-Token</mark> (Shield, The Underwriter) <a href="#id-2-layer-1-s-token-the-premium" id="id-2-layer-1-s-token-the-premium"></a>
+
+By holding S-Token, you are the **Underwriter** of the pool. This position gives you two powerful rights:
+
+1. **The Yield**: You earn a share of the **underlying asset's principal and coupon**. It's the intrinsic cash flow from the asset itself.
+2. **The Exclusive Ticket**: S-Token is the **only way** to access **SS (Surplus)**. Think of S-Token as your membership pass—without it, you cannot participate in the underlying's future upside.
+
+**The Risk (First-Loss)**
+
+Just like an insurance company, if valid claims are made (i.e., the asset defaults or loses value), you pay first. Your capital absorbs the loss to protect P-Token holders.
+
+### <mark style="color:purple;">SS</mark> (Staked S, The Bonus) <a href="#id-3-layer-2-ss-the-bonus" id="id-3-layer-2-ss-the-bonus"></a>
+
+This is the "Hidden Gem" of the system. While S-Token captures the asset's yield, **SS (Surplus)** captures the protocol's upside.
+
+**Crucial Rule:**&#x20;
+
+1. **Stake S-Token**:  Stake your S-Tokens into the protocol.
+   * _Note: Once staked, your S-Tokens are **locked until the asset matures**. You cannot unstake early._
+2. **Earn SS Linearly**: SS is generated continuously based on your staked amount. The more you stake and the longer you wait, the more SS you earn.
+3. **Claim & Trade Anytime**: While your S-Token is staked, your earned **SS is liquid**. You can claim your SS rewards at any time and sell them on the secondary market if you wish.
+
+**Think of it this way**:
+
+* **Staking S** = Planting a tree. You can't move the tree until harvest season (Maturity).
+* **Receiving SS** = Gathering fruit. You can pick and sell the fruit (SS) whenever you want, while the tree continues to grow.
+
+***
 
 ### How it works
 
@@ -33,20 +62,14 @@ In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><ma
   * **Coupon share:** A fixed % of each coupon payment.
   * **Protocol fees:** A defined % of AquaFlux fees (swap/wrap/split/merge/LP fees, etc.—see dApp).
   * **Issuer incentives:** A possible points or airdrop reward from issuer.
-* **Pricing intuition (no hard par):**\
+* **Pricing (no hard par):**\
   S’s fair value ≈ _(expected coupon share + expected fees + expected residual)_ − _(expected losses)_.\
-  Expectations change with asset quality, coverage ratio, time to maturity, and market sentiment—so price **may not stable** as P.
+  Expectations change with asset quality, coverage ratio, time to maturity, and market sentiment.
 
 ### Who it’s for
 
 * **Yield hunters / risk takers** who understand first-loss dynamics.
 * **Structured-yield strategies** selling downside in exchange for higher carry.
-
-### Playing S with P / C (LEGO® combos)
-
-* **P + S → “cash-plus”**: principal-heavy with a small yield kicker from S income; S amount kept modest to cap drawdown.
-* **C + S → “enhanced carry”**: harvest coupons and fee share at the same time.
-* **S only → “pure protection seller”**: maximum exposure to first-loss in exchange for the highest potential carry.
 
 ### Acquire & Exit
 
@@ -57,7 +80,7 @@ In return, it can earn a <mark style="color:orange;">**surplus yield**</mark><ma
   * **Sell anytime** at market price (T+0).
   * **At maturity**: if the bond repays in full, any **unused** S buffer + final fee/coupon shares are distributed to S holders. If losses occurred, your S position may be partially/fully reduced.
 
-### S-Token Valuation
+### S Tranche Valuation
 
 **Definition**\
 The S-Token is the junior, first-loss tranche. Its present value (PV) is the sum of upside components minus expected loss:
@@ -132,7 +155,7 @@ S is the **first-loss** tranche. Keep it simple with a blended annual loss assum
 * **Is S-Token principal-protected?**\
   No. It’s **first-loss** by design. You are compensated via coupon share, fee share, and potential residual—**not** by a 1:1 redemption promise.
 * **Does buying S-Token give me insurance on the asset?**\
-  No. Buying S-Token is like **selling** insurance—you act as the first-loss provider (the underwriter). You earn coupon/fee shares and potential residuals for taking that risk, and you’re hit first if losses occur. If you want to **buy** protection instead, do the opposite: **short the S-Token** (where supported) or avoid S and hold **P (or P + C)** so the first-loss buffer works in your favor.
+  No. Buying S-Token is like **selling** insurance—you act as the first-loss provider (the underwriter). You earn coupon/fee shares and potential residuals for taking that risk, and you’re hit first if losses occur. If you want to **buy** protection instead, do the opposite: **short the S-Token** or avoid S and hold **P (or P + C)** so the first-loss buffer works in your favor.
 * **When do I earn?**\
   Throughout the term (coupon/fee distributions) and potentially at maturity (unused buffer), provided performance is on track.
 * **What happens if there’s a default?**\

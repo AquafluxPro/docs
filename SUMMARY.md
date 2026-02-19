@@ -17,7 +17,7 @@
 
 * [Design Principle](tokenomics/design-principle/README.md)
   * [$AQUA](tokenomics/design-principle/usdaqua.md)
-* [AquaX](tokenomics/aquax.md)
+  * [AquaX](tokenomics/design-principle/aquax.md)
 
 ## Podcast
 

@@ -17,9 +17,9 @@ description: How returns are paid and how losses are absorbed
 
 #### 1) Distribution of Returns (when money comes in)
 
-1. **P-Token (Principal)** – Principal repayments are honored first.
-2. **C-Token (Coupon)** – Scheduled interest payments are distributed next.
-3. **S-Token (Shield)** – eceives its **coupon/fee share** and, at maturity, any **unused safety buffer** (residual).
+1. **P-Token** – Principal repayments are honored first.
+2. **C-Token** – Scheduled interest payments are distributed next.
+3. **S-Token** – eceives its **coupon/fee share** and, at maturity, any **unused safety buffer** (residual).
 
 > Think of it like a waterfall flowing over three ledges. The top pool (P) fills first. Overflow goes to the second pool (C). Whatever is left cascades down to the third pool (S).
 
@@ -75,9 +75,7 @@ Short answer: yes, but it’s more than that.
 
 In a traditional securitization, tranches only determine **who takes losses first**. They are static slices that you buy and hold. In AquaFlux, **P / C / S** are cash-flow layers with loss priority **that you can compose**.
 
-Because these pieces are tradeable LEGO bricks, certain combinations create option-like payoffs. For example, S behaves like selling first-loss protection (similar to writing a credit default swap). P + C recreates the original bond. C + S creates an enhanced yield position.
-
-In other words, the Tri-Token model is not just risk slicing -- it lets users **shape their payoff curve**, not merely their place in the waterfall. Check out the [Composable LEGO strategies](tri-token-model/#id-3.-composable-lego) for more.
+In other words, the Tri-Token model is not just risk slicing, it lets users **shape their payoff curve**, not merely their place in the waterfall. Check out the [Composable LEGO strategies](tri-token-model/#id-3.-composable-lego) for more.
 
 ### FAQ
 

@@ -22,19 +22,19 @@ Both profiles face a trade-off:
 * **Visibility vs. Risk** — Traditional bonds hide default risk until it's too late. Many DeFi yields hide smart-contract and market risk behind flashy APYs.
 * **Locked vs. Liquid** — You can have stable income or instant access to your capital, but rarely both.
 
-If any of this sounds familiar, you already know why we built **AquaFlux**.
+If any of this sounds familiar, you already know why we built <mark style="color:$primary;">**AquaFlux**</mark>.
 
 ## A Trillion-Dollar Problem <a href="#a-trillion-dollar-problem" id="a-trillion-dollar-problem"></a>
 
-This is not a niche complaint. The global bond market is worth over **$140 trillion**. Meanwhile, the current RWA (Real-World Asset) market on-chain sits at roughly **$36 billion** in total value locked — a number that has doubled since 2025, but still represents a tiny fraction of what is possible.
+The global bond market is worth over **$140 trillion**. Meanwhile, the current RWA (Real-World Asset) market on-chain sits at roughly **$36 billion** in total value locked — a number that has doubled since 2025, but still represents a tiny fraction of what is possible.
 
-Industry projections suggest **$16 to $30 trillion** in assets could be tokenized by 2030. Even capturing just 1% of the global bond market would mean **$1.4 trillion** flowing on-chain — roughly 10x the entire DeFi liquidity today.
+Industry projections suggest **$16 to $30 trillion** in assets could be tokenized by 2030. Even capturing just 1% of the global bond market would mean **$1.4 trillion** flowing on-chain, roughly 10x the entire DeFi liquidity today.
 
 The demand is real. The capital is there. So what is holding things back?
 
 ### RWA 1.0: The Photocopier Problem <a href="#rwa-10-the-photocopier-problem" id="rwa-10-the-photocopier-problem"></a>
 
-Most of today's on-chain bond products work like a photocopier. They take a real-world bond and create a 1:1 digital copy. Same terms, same lockup, same rigid structure — just on a blockchain.
+Most of today's on-chain bond products work like a photocopier. They take a real-world asset and create a 1:1 digital copy. Same asset, same risk, same boring "hold-to-maturity" fate.
 
 That is useful for settlement and record-keeping, but it does not unlock new value. You still cannot:
 
@@ -49,9 +49,9 @@ Putting an asset on-chain is just the beginning. **The real game is making it in
 
 The bond market does not need another photocopier. It needs a **refinery**.
 
-Imagine crude oil. You could burn it as-is — it works, technically. But refine it into gasoline, plastic, and asphalt, and you serve completely different markets. Each product finds its own buyers. The total value of the refined products exceeds the crude oil you started with.
+Imagine crude oil. 100 years ago, people burning it raw for heat. Then someone invented the refinery. The same barrel of crude oil became gasoline, diesel, jet fuel, plastics, asphalt and serve completely different markets. Each product finds its own buyers. The total value of the refined products exceeds the crude oil you started with.
 
-That is the leap from RWA 1.0 to RWA 2.0. Not just digitizing bonds, but **structuring** them — breaking them into components that each serve different investors with different risk appetites.
+That is the leap from RWA 1.0 to RWA 2.0. Not just digitizing assets, but **structuring** them — breaking them into components that each serve different investors with different risk appetites.
 
 That is exactly what AquaFlux does.
 

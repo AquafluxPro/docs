@@ -28,11 +28,11 @@ Traditional bonds bundle everything into one illiquid paper. By unbundling them,
 
 * 🧱 **Composability**:&#x20;
 
-&#x20;       Users can build cash-plus strategies or levered carry trades using DeFi legos.
+&#x20;       You can build cash-plus strategies or levered carry trades using DeFi legos.
 
 * ⚡️ **Capital Efficiency**:&#x20;
 
-&#x20;       LPs can hedge specific risks instead of locking up capital for the whole bond.
+&#x20;       Instead of locking up capital for the whole bond, you can hedge specific risks, provide targeted liquidity, or leverage just the piece you want.
 
 ### 3. Composable LEGO
 
