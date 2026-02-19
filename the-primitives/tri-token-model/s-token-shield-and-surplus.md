@@ -52,6 +52,10 @@ This is the "Hidden Gem" of the system. While S-Token captures the asset's yield
 
 ***
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+***
+
 ### How it works
 
 * **Loss waterfall**
