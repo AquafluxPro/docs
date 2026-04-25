@@ -4,7 +4,7 @@ description: Deposit, Split, tailor your yield, and earn Season Alpha rewards.
 
 # Season Alpha
 
-Season Alpha is the first AquaX campaign season for AquaFlux. Users can earn Aqua Points and unlock Season Alpha badges through on-chain activity, token holdings, liquidity contribution, and community participation.
+Season Alpha is the first campaign season for AquaFlux. Users can earn Aqua Points and unlock Season Alpha badges through on-chain activity, token holdings, liquidity contribution, and community participation.
 
 {% hint style="info" %}
 **Campaign window:** May 2026 to July 2026
@@ -25,13 +25,15 @@ Holding points are based on the USD value of eligible assets detected by daily s
 
 ### How holding points work
 
-* Daily holding points follow this formula: `Holding value in U x task points x Early Bird multiplier`.
-* Example: holding **10U AQ** for 1 day earns `10 x 100 = 1000 pts` before any Early Bird bonus.
+* Daily holding points follow this formula: `Holding value in amount x task points x Early Bird multiplier`.
+
+&#x20;      Example: holding **10 AQ Token** for 1 day earns `10 x 100 = 1000 pts` before any Early Bird bonus.
+
 * LP currently has the highest base daily rate shown on the campaign page: **600 pts per 1U LP per day**.
 * Points from direct protocol actions update shortly after the transaction is confirmed.
 * Holding task points and social interaction points update daily at **00:00 UTC**.
 
-## Early Bird Bonus
+## Early Bird Multiplier
 
 The earlier you participate, the higher the multiplier applied to your eligible holding points.
 
@@ -47,7 +49,7 @@ Core on-chain actions unlock Common badges. Sustained participation during the g
 
 ### Genesis badges
 
-<table><thead><tr><th width="242">Badge</th><th>Page requirement</th></tr></thead><tbody><tr><td>Genesis AQ Holder</td><td>Maintain AQ eligibility through the genesis campaign window.</td></tr><tr><td>Genesis P Holder</td><td>Maintain P eligibility through the genesis campaign window.</td></tr><tr><td>Genesis LP Holder</td><td>Maintain LP eligibility through the genesis campaign window.</td></tr><tr><td>Genesis Trader</td><td>Stay active on the trading path during the genesis activity window.</td></tr><tr><td>Genesis S-Holder</td><td>Maintain S eligibility through the genesis campaign window.</td></tr></tbody></table>
+<table><thead><tr><th width="242">Badge</th><th>Page requirement</th></tr></thead><tbody><tr><td>Genesis AQ Holder</td><td>Hold 10 Aq Tokens for 7 consecutive days</td></tr><tr><td>Genesis P Holder</td><td>Hold 10 P Tokens for 7 consecutive days</td></tr><tr><td>Genesis LP Holder</td><td>Hold 10 LP Tokens for 7 consecutive days</td></tr><tr><td>Genesis Trader</td><td>During the promotion period, make more than 10 transactions on AquaFlux Swap, with each transaction exceeding 5 USDC.</td></tr><tr><td>Genesis S-Holder</td><td>Hold 10 S Tokens for 7 consecutive days</td></tr></tbody></table>
 
 ### Badge behavior
 
