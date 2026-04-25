@@ -13,6 +13,11 @@
 * [Lifecycle](the-primitives/lifecycle.md)
 * [AquaMind](the-primitives/aquamind.md)
 
+***
+
+* [Campagins](campagins/README.md)
+  * [Season Alpha](campagins/season-alpha.md)
+
 ## Tokenomics
 
 * [Design Principle](tokenomics/design-principle/README.md)
