@@ -15,8 +15,8 @@
 
 ***
 
-* [Campaigns](campagins/README.md)
-  * [Season Alpha](campagins/season-alpha.md)
+* [Campaigns](campaigns/README.md)
+  * [Season Alpha](campaigns/season-alpha.md)
 
 ## Tokenomics
 
