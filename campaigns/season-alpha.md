@@ -6,10 +6,6 @@ description: Deposit, Split, tailor your yield, and earn Season Alpha rewards.
 
 Season Alpha is the first campaign season for AquaFlux. Users can earn Aqua Points and unlock Season Alpha badges through on-chain activity, token holdings, liquidity contribution, and community participation.
 
-{% hint style="info" %}
-**Campaign window:** May 2026 to July 2026
-{% endhint %}
-
 ## About Season Alpha
 
 Season Alpha tracks contribution in two ways:
