@@ -34,6 +34,7 @@
 ## Developers
 
 * [Contracts](developers/contracts.md)
+* [Audits](developers/audits.md)
 
 ***
 
